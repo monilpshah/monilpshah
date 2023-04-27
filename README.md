@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monilpshah
-- 👀 I’m interested in Selenium, OATS, Angular, NodeJS, Firebase, MySql development.
-- 🌱 I’m currently working in QA Automation Frameworks and QA Methodologies.
+- 👀 I’m working in Selenium, OATS, Angular, NodeJS, Firebase, MySql development.
+- 🌱 www.bit.do/monutechguru
 - 📫 Contact me on : monil31199@gmail.com
 
 <!---
